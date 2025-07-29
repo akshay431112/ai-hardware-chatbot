@@ -1,0 +1,21 @@
+{
+  "hi": "Hello! 👋 How can I assist you with PC or laptop hardware today?",
+  "hello": "Hi there! Need help with RAM, SSD, or laptop models?",
+  "hey": "Hey! I'm here to help you find the best hardware info.",
+  "how are you": "I'm an AI bot, always running at 100%! 💻",
+  "help": "You can ask me about hardware like RAM, SSD, laptop models, etc.",
+  "ram": "RAM (Random Access Memory) is used to store data temporarily while your system is running. Common sizes: 8GB, 16GB, 32GB.",
+  "8gb ram": "Great for basic tasks and light gaming. Common models: Corsair Vengeance, Kingston Fury, Crucial Ballistix.",
+  "16gb ram": "Good for multitasking, development, and moderate gaming. Models: Corsair Vengeance LPX, G.Skill Ripjaws V.",
+  "32gb ram": "Best for video editing, virtual machines, and high-end gaming.",
+  "rom": "ROM (Read-Only Memory) stores firmware permanently. It's not upgradeable like RAM or SSD.",
+  "ssd": "SSD (Solid State Drive) is a fast storage device. Types: SATA, NVMe. Sizes: 256GB, 512GB, 1TB.",
+  "512gb ssd": "Offers good balance for OS and apps. Models: Samsung 970 EVO, WD Blue SN570.",
+  "1tb ssd": "Perfect for heavy use. Models: Samsung 980 Pro, Crucial P3 Plus.",
+  "laptop models": "Some popular models: Dell XPS 13, HP Spectre x360, Lenovo ThinkPad X1 Carbon, ASUS ROG Zephyrus.",
+  "pc models": "Popular PC brands include: HP Pavilion, Dell Inspiron, Lenovo IdeaCentre, ASUS ROG desktops.",
+  "best laptop for gaming": "Try ASUS ROG Strix, Acer Predator Helios, or MSI GE Raider series.",
+  "best laptop for programming": "Consider MacBook Pro, Dell XPS, or Lenovo ThinkPad X1 Carbon.",
+  "best budget laptop": "Look at ASUS Vivobook, Acer Aspire 5, or HP 14s.",
+  "thanks": "You're welcome! 😊 Let me know if you need more help."
+}
